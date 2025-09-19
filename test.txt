@@ -1,2 +1,2 @@
 this is the first GitHub file
-this is the update in local repo.
+This is the update in local repository.
