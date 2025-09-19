@@ -1,8 +1,0 @@
-this is the first GitHub file
-<<<<<<< HEAD
-This is the update in local repository.
-
-
-=======
-this is the update in remote repository.
->>>>>>> 43ed33ffd9c5005f03b48a48839beb728f051eeb
